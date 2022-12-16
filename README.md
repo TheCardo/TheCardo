@@ -61,11 +61,20 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheCardo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheCardo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCardo&hide_border=true&layout=compact" align="center" /></div>  
+<br/>
+<br/>
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCardo&theme=radical&hide_border=false" align="center" /></div>  
+
+<br/>
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCardo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /></div>  
 
 <br/>  
+<br/>
 
 
 
