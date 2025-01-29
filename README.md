@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ricardo Fragoso, a Fullstack developer from Brazil!</div>  
+### <div align="center">I'm Ricardo Fragoso, a developer from Brazil!</div>  
   
 
 - 🎓 I'm a Fullstack Jr.  
@@ -12,7 +12,7 @@
 - 🚀 My goal is to become a Full Stack Developer.  
   
 
-- 💻 Currently I'm studying Java, Python and SQL.  
+- 💻 Currently I'm studying in IFPE Campus Paulista.  
   
 
 - 📫 Feel free to contact me at ricardof.fragososilva@gmail.com  
