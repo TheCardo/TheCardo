@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ricardo Fragoso, a developer from Brazil!</div>  
   
 
-- 🎓 I'm a Fullstack Jr.  
+- 🎓 I'm Intern.  
   
 
 - 🚀 My goal is to become a Full Stack Developer.  
