@@ -6,12 +6,6 @@
 ### <div align="center">I'm Ricardo Fragoso, a developer from Brazil!</div>  
   
 
-- 🎓 I'm Intern.  
-  
-
-- 🚀 My goal is to become a Full Stack Developer.  
-  
-
 - 💻 Currently I'm studying in IFPE Campus Paulista.  
   
 
